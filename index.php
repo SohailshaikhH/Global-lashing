@@ -307,7 +307,7 @@
 
                         <a href="#">
 
-                            <img src="new-imag/Accesories.webp" class="card-img-top p-2" alt="..." />
+                            <img src="new-imag/Accesories.png" class="card-img-top p-2" alt="..." />
 
                             <h3>Accessories and tools</h3>
 
@@ -330,7 +330,7 @@
 
                         <a href="#">
 
-                            <img src="new-imag/hardware.webp" class="card-img-top p-2" alt="..." />
+                            <img src="new-imag/hardware.png" class="card-img-top p-2" alt="..." />
 
                             <h3>Hardware</h3>
 

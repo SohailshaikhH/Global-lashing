@@ -1,4 +1,3 @@
-cou
 <!DOCTYPE html>
 
 <html>
@@ -909,33 +908,33 @@ cou
     <?php include('footer.php'); ?>
 
     <script>
-    $(function() {
+        $(function () {
 
 
 
 
 
-        var $first = $('#scroller>:first-child');
+            var $first = $('#scroller>:first-child');
 
-        $('#scroller').width($first.outerWidth(true));
+            $('#scroller').width($first.outerWidth(true));
 
-        $first.clone(true).appendTo('#scroller');
+            $first.clone(true).appendTo('#scroller');
 
-        $('#scroller').addClass('ready');
-
-
-
-        var $first = $('#scroller1>:first-child');
-
-        $('#scroller1').width($first.outerWidth(true));
-
-        $first.clone(true).appendTo('#scroller1');
-
-        $('#scroller1').addClass('ready');
+            $('#scroller').addClass('ready');
 
 
 
-    })
+            var $first = $('#scroller1>:first-child');
+
+            $('#scroller1').width($first.outerWidth(true));
+
+            $first.clone(true).appendTo('#scroller1');
+
+            $('#scroller1').addClass('ready');
+
+
+
+        })
     </script>
 
 </body>

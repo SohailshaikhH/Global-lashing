@@ -214,7 +214,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/ratchet lashing endless - 1 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>Ratchet</td>
@@ -230,7 +232,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/ratchet lashing endless - 2 image.jpg"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>Black Ratchet</td>
@@ -247,7 +251,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/ratchet lashing end - 3 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>MS Handle Ratchet</td>
@@ -272,7 +278,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/rach lashin end - 4 image.jpg"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>Ratchet</td>
@@ -291,7 +299,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/rach lash end - 5 image.jpg"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>Ratchet</td>
@@ -310,7 +320,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/ratcehtlashingendless/rach lash end - 6 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>Ratchet</td>

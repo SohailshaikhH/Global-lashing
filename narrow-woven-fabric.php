@@ -92,8 +92,8 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="table-responsive"> 
-					<table class="table table-bordered table-striped align-middle">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped align-middle">
                             <thead>
                                 <tr>
                                     <th scope="col">Product</th>
@@ -107,7 +107,8 @@
                             <tbody>
                                 <tr>
                                     <td class="text-center">
-                                        <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
+                                        <img src="new-imag/onewaynarrowwoven/one way cargo - narr - 1 image.png"
+                                            class="img-fluid" />
                                     </td>
 
                                     <td>25mm </td>
@@ -117,7 +118,8 @@
 
                                 <tr>
                                     <td class="text-center">
-                                        <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
+                                        <img src="new-imag/onewaynarrowwoven/one way - narr - 2 image.png"
+                                            class="img-fluid" />
                                     </td>
 
                                     <td>32mm </td>
@@ -127,7 +129,8 @@
 
                                 <tr>
                                     <td class="text-center">
-                                        <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
+                                        <img src="new-imag/onewaynarrowwoven/on way - narr - 3 image.png"
+                                            class="img-fluid" />
                                     </td>
                                     <td>35mm </td>
                                     <td>3000kg</td>
@@ -136,7 +139,8 @@
 
                                 <tr>
                                     <td class="text-center">
-                                        <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
+                                        <img src="new-imag/onewaynarrowwoven/one way - narr - 4 image.png"
+                                            class="img-fluid" />
                                     </td>
                                     <td>40mm </td>
                                     <td> 3000kg</td>
@@ -146,34 +150,37 @@
 
                                 <tr>
                                     <td class="text-center">
-                                        <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
+                                        <img src="new-imag/onewaynarrowwoven/onw way - narr - 5 image.png"
+                                            class="img-fluid" />
                                     </td>
                                     <td>40mm </td>
                                     <td>5000kg</td>
 
-                                    </tr>
-                                    <tr>
-                                        <td class="text-center">
-                                            <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
-                                        </td>
-                                        <td>50mm </td>
-                                        <td>5000kg</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">
+                                        <img src="new-imag/onewaynarrowwoven/one way - narrow - 6 image.png"
+                                            class="img-fluid" />
+                                    </td>
+                                    <td>50mm </td>
+                                    <td>5000kg</td>
 
-                                    </tr>
-                                    <tr>
-                                        <td class="text-center">
-                                            <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
-                                        </td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">
+                                        <img src="new-imag/onewaynarrowwoven/onw way - narr - 7 image.png"
+                                            class="img-fluid" />
+                                    </td>
 
-                                        <td>75mm </td>
-                                        <td>10000kg</td>
-
-
-
-
+                                    <td>75mm </td>
+                                    <td>10000kg</td>
 
 
-                                    </tr>
+
+
+
+
+                                </tr>
 
                             </tbody>
                         </table>

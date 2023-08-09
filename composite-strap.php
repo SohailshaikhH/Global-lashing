@@ -272,7 +272,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/13mm.jpg" class="img-fluid">
                                     </td>
 
                                     <td>13mm</td>
@@ -295,7 +295,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/16mm.png" class="img-fluid">
                                     </td>
 
                                     <td>16mm</td>
@@ -312,7 +312,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/19mm.png" class="img-fluid">
                                     </td>
 
                                     <td>19mm </td>
@@ -337,7 +337,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/25mm.png" class="img-fluid">
                                     </td>
 
                                     <td>25mm</td>
@@ -356,7 +356,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/32mm.png" class="img-fluid">
                                     </td>
 
                                     <td>32 mm </td>

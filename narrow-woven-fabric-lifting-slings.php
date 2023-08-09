@@ -285,7 +285,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 1 image.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -316,7 +318,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 2 image.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -335,7 +339,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 3 image.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -356,7 +362,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 4 image.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -381,7 +389,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 5 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>125mm/ 150mm </td>
@@ -392,7 +402,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 6 imahge.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>150mm/ 180mm </td>
@@ -403,7 +415,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting narrow - 7 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>200mm/ 240mm </td>
@@ -416,7 +430,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 8 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>250mm/ 300mm </td>
@@ -427,7 +443,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/listinglashing/lifting - narrow - 9 image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>300mm </td>

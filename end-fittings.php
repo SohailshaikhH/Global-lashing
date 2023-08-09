@@ -535,7 +535,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/3000kg - Claw Hook.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -564,7 +565,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/5000kg - Claw Hook.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -599,7 +601,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/10000kg - Claw Hook.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>3”(75mm)</td>
@@ -620,7 +623,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/flat hook - 2500 kg.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>
@@ -635,7 +639,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/flat hook - 4500 kg.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>
@@ -650,7 +655,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/Flathookimage7000kg.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>
@@ -665,7 +671,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/10000kg - Claw Hook.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>3”(75mm)</td>

@@ -205,15 +205,9 @@
 
             <div class="row ">
 
-                <div class="col-md-6 text-center">
+               
 
-
-
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
-
-                </div>
-
-                <div class="col-md-6 my-auto">
+                <div class="col-md-6 my-auto   order-md-2">
 
                     <h2>Drum Lifting</h2>
 
@@ -268,7 +262,13 @@
                 </div>
 
 
+ <div class="col-md-6 text-center order-md-1">
 
+
+
+                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+
+                </div>
 
 
 

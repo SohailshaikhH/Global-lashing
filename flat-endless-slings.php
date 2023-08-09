@@ -300,7 +300,7 @@
 
             <div class="row justify-content-center">
 
-                <div class="col-md-4 text-center">
+                <div class="col-md-3 text-center">
 
                     <h2>Advantages</h2>
 

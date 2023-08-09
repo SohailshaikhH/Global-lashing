@@ -126,7 +126,7 @@
 
 
                 <div class="col-md-6 text-center">
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/rachet-lashing-endless.png" class="img-fluid">
 
                 </div>
             </div>
@@ -423,7 +423,7 @@
 
 
 
-    <section class="prod-info">
+    <section class="prod-info about-info">
 
         <div class="container">
 
@@ -465,7 +465,7 @@
 
                         <ol>
 
-                            <div class="row">
+                            <div class="row gx-5">
 
                                 <div class="col-md-6 ">
 
@@ -571,13 +571,13 @@
 
 
 
-    <section class="advantages">
+    <section class="advantages ">
 
         <div class="container">
 
             <div class="row justify-content-center">
 
-                <div class="col-md-4 text-center">
+                <div class="col-md-3 text-center">
 
                     <h2>Advantages</h2>
 

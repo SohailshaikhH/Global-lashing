@@ -60,7 +60,7 @@
 
   </section>
 
-  <section class="prod-info">
+  <section class="prod-info about-info">
 
     <div class="container">
 
@@ -70,24 +70,11 @@
 
           <h2>ABOUT GLOBAL LASHING & LIFTING</h2>
 
-          <p>
+          <p> With Advance technical know-how & Experience in Manufacturing of Lashing & lifting Products for Cargo & Load securing, Global Lashing & lifting solutions have become preferred choice for all your safety needs.</p>
+    <p>Working closely with manufacturing factories, Customers & suppliers around the globe, We have set up an sate of art Manufacturing facility with Renowned European machinery to produce products of international set standards.</p>
+    <p>As a leading company in the lashing and lifting industry, we are amongst the top 5 companies, offering the easiest-to-use and widely accepted range of products to meet your demanding needs, such as Polyester lifting belts, Ratchet lashing systems, and Webbing rolls.</p>
+    <p>All these products are readily available and can be procured within no time. In addition to high performance products, we understand, advice and support to make it a complete customized package.</p>
 
-            With Advance technical know-how & Experience in Manufacturing of Lashing & lifting Products for
-            Cargo & Load securing, Global Lashing & lifting solutions have become preferred choice for all
-            your safety needs.
-
-          </p>
-
-          <p>Working closely with manufacturing factories, Customers & suppliers around the globe, We have set
-            up an sate of art Manufacturing facility with Renowned European machinery to produce products of
-            international set standards.</p>
-
-          <p>We offer the easiest-to-use and widely accepted range of products for your demanding needs,
-            Polyester lifting belts, Ratchet lashing systems & Webbing rolls.</p>
-
-          <p>All these products are readily available and can be procured within no time. In addition to high
-            performance products, we understand, advice and support to make it a complete customized
-            package.</p>
 
         </div>
 

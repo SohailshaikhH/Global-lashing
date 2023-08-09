@@ -284,7 +284,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-47.webp"
+                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-46.webp"
                                             class="img-fluid">
                                     </td>
 
@@ -338,7 +338,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-45.webp"
+                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-47.webp"
                                             class="img-fluid">
                                     </td>
 
@@ -370,7 +370,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-43.webp"
+                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-45.webp"
                                             class="img-fluid">
                                     </td>
 
@@ -398,7 +398,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-42.webp"
+                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-43.webp"
                                             class="img-fluid">
                                     </td>
 
@@ -428,7 +428,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-44.webp"
+                                    <td class="text-center"><img src="new-imag/PSxGLL-ProductCatalog-Clean-42.webp"
                                             class="img-fluid">
                                     </td>
 

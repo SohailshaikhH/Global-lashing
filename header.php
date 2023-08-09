@@ -15,14 +15,21 @@ $currentPage = basename($_SERVER['PHP_SELF']);
         <a class="navbar-brand" href="index.php"><img src="new-imag/logo.png" alt="global lashing LOGO"
                 class="img-fluid" /></a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
-            aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+       
+		
+		
+		
+		 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content">
+        <div class="hamburger-toggle">
+          <div class="hamburger">
+           <span class="navbar-toggler-icon"></span>
+          </div>
+        </div>
+      </button>
+		
+		
 
-            <span class="navbar-toggler-icon"></span>
-
-        </button>
-
-        <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
+        <div class="collapse navbar-collapse justify-content-end" id="navbar-content">
 
             <div class="wrapper">
 
@@ -78,8 +85,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
                         <li class="nav-item dropdown">
 
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside">
 
                                 Products
 
@@ -89,7 +95,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 
 
-                                <li><a href="#" class="dropdown-item">One Way Cargo Lashing &raquo;</a>
+                                <li class="dropend"><a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">One Way Cargo Lashing </a>
 
 
 
@@ -125,9 +131,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 
 
-                                <li>
-
-                                    <a href="#" class="dropdown-item">Ratchet Lashing &raquo;</a>
+                                 <li class="dropend"><a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">Ratchet Lashing </a>
 
 
 
@@ -136,7 +140,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                                         <li><a class="dropdown-item" href="ratchet-lashing-tie-down.php">Tie down</a>
                                         </li>
 
-                                        <li><a class="dropdown-item" href="#">Car lashing</a></li>
+                                        <li><a class="dropdown-item" href="car-lashing.php">Car lashing</a></li>
 
 
 
@@ -152,9 +156,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                                     </ul>
                                 </li>
 
-                                <li>
-
-                                    <a href="#" class="dropdown-item">Lifting Slings &raquo;</a>
+                                <li class="dropend"><a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">Lifting Slings </a>
 
 
 
@@ -187,9 +189,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 
                                 </li>
-                                <li>
-
-                                    <a href="#" class="dropdown-item">Hardware &raquo;</a>
+                                 <li class="dropend"><a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside">Hardware </a>
 
 
 
@@ -212,9 +212,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 
                                 </li>
-                                <li>
-
-                                    <a href="#" class="dropdown-item">Tools and Accessories &raquo;</a>
+                                <li class="dropend"><a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside"> Tools and Accessories </a>
 
 
 
@@ -230,9 +228,9 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
                                         <li><a class="dropdown-item" href="#">Accessory(lift - hand palettes)</a></li>
 
-                                        <li><a class="dropdown-item" href="#">Dunnage Bags</a></li>
+                                        <li><a class="dropdown-item" href="dunnage-bag.php">Dunnage Bags</a></li>
 
-                                        <li><a class="dropdown-item" href="#">D-Shackle</a></li>
+                                        <li><a class="dropdown-item" href="d-shackle.php">D-Shackle</a></li>
 
 
 
@@ -278,13 +276,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 
 
 
-                        <li class="nav-item">
-
-                            <a class="nav-link <?php if ($currentPage == 'clients.php') {
-                echo 'strline';
-              } ?> " href="clients.php">Clients</a>
-
-                        </li>
+                       
 
 
 

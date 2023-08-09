@@ -394,7 +394,7 @@
 
 
 
-  <section class="prod-info">
+  <section class="prod-info about-info">
 
     <div class="container">
 
@@ -438,7 +438,7 @@
 
             <ol>
 
-              <div class="row ">
+              <div class="row gx-5">
 
                 <div class="col-md-6 ">
 
@@ -535,7 +535,7 @@
 
       <div class="row justify-content-center">
 
-        <div class="col-md-4 text-center">
+        <div class="col-md-3 text-center">
 
           <h2>Advantages</h2>
 

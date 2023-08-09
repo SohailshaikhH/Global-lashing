@@ -373,9 +373,11 @@ select.did-floating-select::-ms-expand {
 
   padding: 15px 0px;
 }
-
+.trust{    padding-left: 30px;
+    padding-right: 30px;
+    background: white;}
 .trusted {
-  margin-left: 200px;
+ 
 }
 
 .carousel-indicators {
@@ -560,29 +562,23 @@ select.did-floating-select::-ms-expand {
   color: white;
   font-weight: 600;
   position: relative;
-  font-size: 28px;
+  font-size: 28px;     display: table;
 }
 
 .bg-roundthree h4::after {
-  content: "";
-
-  width: 80px;
-
-  height: 4px;
-
-  position: absolute;
-
-  background-color: #ffffff;
-
-  top: 48px;
-
-  left: 5px;
-
-  border-radius: 10px;
+     content: "";
+    width: 80px;
+    height: 4px;
+    display: block;
+    background-color: #ffffff;
+    margin-right: 0;
+    margin-top: 15px;
+    border-radius: 10px;
+    position: initial;
 }
 
 .bg-roundthree ul {
-  margin-top: 45px;
+  margin-top: 30px;
 
   list-style: none;
 
@@ -764,25 +760,19 @@ select.did-floating-select::-ms-expand {
   color: white;
   margin-bottom: 0;
   position: relative;
-  font-family: heading;
+  font-family: heading; display:table;
 }
 
 .contat h2::after {
   content: "";
-
-  width: 20%;
-
-  height: 2px;
-
-  position: absolute;
-
-  background-color: #ffffff;
-
-  top: 45px;
-
-  left: 0px;
-
-  border-radius: 10px;
+    height: 2px;
+    position: absolute;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 15px;
 }
 
 .contat {
@@ -815,7 +805,7 @@ select.did-floating-select::-ms-expand {
 
 .breadcumb h2 {
   font-size: 20px;
-  font-family: heading;
+  font-family: heading;     text-transform: uppercase;
 }
 
 .prod-info {
@@ -825,29 +815,23 @@ select.did-floating-select::-ms-expand {
 }
 
 .prod-info h2 {
-  position: relative;
+  position: relative; 
   margin-bottom: 30px;
   color: #0e4772;
-  font-family: heading;
+  font-family: heading; display:table;
   text-transform: uppercase;
 }
 
 .prod-info h2::after {
-  content: "";
-
-  width: 80px;
-
-  height: 2px;
-
-  position: absolute;
-
-  background-color: #0e4772;
-
-  top: 48px;
-
-  left: 0px;
-
-  border-radius: 10px;
+content: "";
+    width: 80px;
+    height: 3px;
+    background-color: #0e4772;
+    border-radius: 10px;
+    display: block;
+    margin-right: 0;
+    margin-top: 10px;
+    position: initial;
 }
 
 .prod-info h3 {
@@ -856,24 +840,20 @@ select.did-floating-select::-ms-expand {
   color: #0e4772;
   font-family: heading;
   text-transform: uppercase;
+  display:table;
 }
 
 .prod-info h3::after {
   content: "";
-
-  width: 45%;
-
-  height: 2px;
-
-  position: absolute;
-
-  background-color: #0e4772;
-
-  top: 72px;
-
-  left: 0px;
-
-  border-radius: 10px;
+    background-color: #0e4772;
+    top: 10px;
+    left: 0px;
+    border-radius: 10px;
+    display: block;
+    width: 80px;
+    height: 4px;
+    margin-left: 0;
+    position: relative;
 }
 
 .advantages {
@@ -883,31 +863,25 @@ select.did-floating-select::-ms-expand {
 
 .advantages h2 {
   position: relative;
-  margin-bottom: 45px;
+  margin-bottom: 30px !important;
   color: #ffffff;
-  font-family: heading;
-  text-transform: uppercase;
+  font-family: heading; 
+  text-transform: uppercase; display:table; margin:0 auto;
 }
 
-.advantages h2::before {
-  content: "";
 
-  width: 150px;
-
-  height: 2px;
-
-  position: absolute;
-
-  background-color: #ffffff;
-
-  top: 48px;
-
-  border-radius: 10px;
-
-  transform: translate(64px, 0px);
-
-  left: 75px;
+.advantages h2::after {
+   content: "";
+    border-radius: 10px;
+    display: block;
+    width: 50%;
+    height: 4px;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 15px;
 }
+
+
 
 .advantages h4 {
   color: #ffffff;
@@ -949,7 +923,7 @@ select.did-floating-select::-ms-expand {
 .prod-tab h2 {
   position: relative;
 
-  margin-bottom: 40px;
+  margin-bottom: 40px !important;
 
   color: #ffffff;
 
@@ -957,19 +931,22 @@ select.did-floating-select::-ms-expand {
 
   text-transform: uppercase;
 
-  line-height: 20px;
+
+  
+    margin: 0 auto;
+  display:table;
+  
 }
 
 .prod-tab h2::after {
-  content: "";
-
-  width: 50%;
-
-  border-bottom: 2px solid white;
-
-  border-radius: 10px;
-
-  display: inline-block;
+ content: "";
+    border-radius: 10px;
+    display: block;
+    width: 50%;
+    height: 4px;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 15px;
 }
 
 .prod-tab .btn-sm {
@@ -1025,33 +1002,30 @@ select.did-floating-select::-ms-expand {
 .corevalues h2 {
   position: relative;
 
-  margin-bottom: 30px;
-
+     margin-bottom: 30px !important;
+display:table;
   color: #0e4772;
 
   font-family: heading;
-
+margin:0 auto;
   text-transform: uppercase;
 }
 
-.corevalues h2::before {
+.corevalues h2::after {
+
+  
   content: "";
-
-  width: 150px;
-
-  height: 2px;
-
-  position: absolute;
-
-  background-color: #0e4772;
-
-  top: 48px;
-
-  border-radius: 10px;
-
-  transform: translate(64px, 0px);
-
-  left: 75px;
+    width: 80px;
+    height: 3px;
+    background-color: #0e4772;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    position: initial;
+  
+  
+  
 }
 
 .corevalues .values {
@@ -1255,6 +1229,16 @@ select.did-floating-select::-ms-expand {
   }
 }
 
+@media (max-width: 767px) {
+ 
+  .bg-roundthree .opacity-0{display:none;}
+
+}
+
+
+
+
+
 #scroller {
   width: 10000%;
 }
@@ -1451,4 +1435,113 @@ select.did-floating-select::-ms-expand {
   font-size: 35px;
   color: #003961;
   padding-left: 3px;
+}
+
+
+.error-page { background-color: #1171b4;
+  padding-top: 0px;
+
+  padding-bottom: 150px;}
+  
+.error-page h2{color:white;}
+.error-page ul{margin-bottom:10px;}
+.error-page ul li{margin-bottom:10px; color: white;}
+.error-page ul li a{text-decoration:none; color:white;}
+
+.iconslinks .bi{width: 35px;
+    height: 35px;
+    background: white;
+    color: #0e558b;
+    padding: 0px 2px 0px 2px;
+    display: block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 37px;}
+	
+	
+	
+	
+	
+	
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+	  .gallery .card-body {
+
+    min-height: 224px;
+}
+.gallery h3{    top: 30%; font-size: 16px;}
+
+.newsevent .card .card-body {
+
+    min-height: 217px;
+}
+
+
+
+
+.iconslinks .bi {
+    width: 25px;
+    height: 25px;
+  
+    padding: 3px 3px 3px 3px;
+  
+
+    line-height: 23px;
+    font-size: 19px;
+}
+
+.corevalues .valuebx h4 {
+
+    font-size: 16px;
+
+    padding: 0px 5px;
+
+}
+
+
+.corevalues .valuebx p{   font-weight: 500; font-size: 15px;}
+
+.corevalues .valuebx{padding: 25px 25px;
+    margin-bottom: 25px;
+    min-height: 338px}
+.safe h4{font-size: 20px;}
+
+.safe .ae{min-height: 457px;}
+.safe .sf{min-height: 457px;}
+
+.contdiv{padding: 38px 23px;}
+
+
+
+}
+	
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+.gallery .card-body {
+
+    min-height: 171px;
+}
+
+.contdiv{padding: 50px 60px;}
+.gallery h3{    top: 43%;}
+.safe h4{font-size: 30px;}
+
+.newsevent .card .card-body {
+
+    min-height: 217px;
+}
+
+.corevalues .valuebx{min-height: 321px;}
+
+.corevalues .valuebx h4{padding: 0px 5px;}
+
+
+.safe p{    min-height: 162px;}
+
 }

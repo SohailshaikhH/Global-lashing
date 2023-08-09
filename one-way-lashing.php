@@ -194,7 +194,7 @@
 
 
 
-    <section class="prod-tab">
+    <section class="prod-tab prodds">
 
         <div class="container">
 
@@ -274,7 +274,7 @@
 
 
 
-    <section class="prod-info">
+    <section class="prod-info about-info">
 
         <div class="container">
 
@@ -320,7 +320,7 @@
 
                         <ol>
 
-                            <div class="row ">
+                            <div class="row gx-5">
 
                                 <div class="col-md-6 ">
 

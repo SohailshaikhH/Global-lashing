@@ -92,8 +92,8 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="table-responsive">
-                        <table class="table table-bordered table-striped align-middle">
+                    <div class="table-responsive"> 
+					<table class="table table-bordered table-striped align-middle">
                             <thead>
                                 <tr>
                                     <th scope="col">Product</th>
@@ -144,7 +144,7 @@
 
                                 </tr>
 
-                                <<tr>
+                                <tr>
                                     <td class="text-center">
                                         <img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid" />
                                     </td>

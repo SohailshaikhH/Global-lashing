@@ -64,11 +64,11 @@
     outline: 0px;
 ">
 
-            <source src="new-imag/video.mp4" type="video/mp4" >
+            <source src="new-imag/video.mp4" type="video/mp4">
 
         </video>
 
-      
+
 
     </section>
 
@@ -82,7 +82,7 @@
 
                 <div class="col-md-6 text-center">
 
-                    <img src="new-imag/overview-image.png" class="img-fluid" />
+                    <img src="new-imag/HOMEPAGEGLOBAL.webp" class="img-fluid" />
 
                 </div>
 
@@ -399,8 +399,8 @@
 
                     <p class="text-white trusted heading h1">Trusted by</p>
 
-                        <p class="text-white trusted heading h1">World's</p>
- <p class="text-white trusted heading h1">Companies</p>
+                    <p class="text-white trusted heading h1">World's</p>
+                    <p class="text-white trusted heading h1">Companies</p>
                 </div>
 
                 <div class="col-md-8">
@@ -762,33 +762,33 @@
     <?php include('footer.php'); ?>
 
     <script>
-        $(function () {
+    $(function() {
 
 
 
 
 
-            var $first = $('#scroller>:first-child');
+        var $first = $('#scroller>:first-child');
 
-            $('#scroller').width($first.outerWidth(true));
+        $('#scroller').width($first.outerWidth(true));
 
-            $first.clone(true).appendTo('#scroller');
+        $first.clone(true).appendTo('#scroller');
 
-            $('#scroller').addClass('ready');
-
-
-
-            var $first = $('#scroller1>:first-child');
-
-            $('#scroller1').width($first.outerWidth(true));
-
-            $first.clone(true).appendTo('#scroller1');
-
-            $('#scroller1').addClass('ready');
+        $('#scroller').addClass('ready');
 
 
 
-        })
+        var $first = $('#scroller1>:first-child');
+
+        $('#scroller1').width($first.outerWidth(true));
+
+        $first.clone(true).appendTo('#scroller1');
+
+        $('#scroller1').addClass('ready');
+
+
+
+    })
     </script>
 
 </body>

@@ -96,12 +96,14 @@
 
                     <p>
 
-                       Car lashing is a critical process that ensures the safe and secure transportation of vehicles. So
-Global brings the right equipment and lashing techniques, whereby cars can be protected from
-damage and remain stable throughout their journey. Implementing proper car lashing
-procedures is vital for the safety and integrity of both the vehicle being transported and other
-road users. Global manufactures car lashing that can be used for both road trailers carrying cars
-and also for roro ship vessels.
+                        Car lashing is a critical process that ensures the safe and secure transportation of vehicles.
+                        So
+                        Global brings the right equipment and lashing techniques, whereby cars can be protected from
+                        damage and remain stable throughout their journey. Implementing proper car lashing
+                        procedures is vital for the safety and integrity of both the vehicle being transported and other
+                        road users. Global manufactures car lashing that can be used for both road trailers carrying
+                        cars
+                        and also for roro ship vessels.
 
                     </p>
 
@@ -115,7 +117,7 @@ and also for roro ship vessels.
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/84x94inch - Car Lashing_page-0001.png" class="img-fluid">
 
                 </div>
 
@@ -178,19 +180,21 @@ and also for roro ship vessels.
                             <h4>Safety</h4>
 
                             <p>Properly secured cars are less likely to shift or move during transportation, reducing
-the risk of accidents and injuries. It ensures the safety of not only the vehicle being transported
-but also other vehicles on the road.</p>
+                                the risk of accidents and injuries. It ensures the safety of not only the vehicle being
+                                transported
+                                but also other vehicles on the road.</p>
 
 
 
                             <h4>Protection</h4>
 
                             <p>Lashing prevents the car from sustaining any damage or scratches during
-transportation. It helps to maintain the exterior and interior integrity of the vehicle.</p>
+                                transportation. It helps to maintain the exterior and interior integrity of the vehicle.
+                            </p>
 
 
 
-                           
+
 
                         </div>
 
@@ -205,14 +209,15 @@ transportation. It helps to maintain the exterior and interior integrity of the 
 
 
                             <p>By using appropriate lashings, the car can be stabilized, minimizing the risk of it
-shifting or toppling over. This stability is especially crucial when transporting cars over long
-distances or challenging terrains.</p>
+                                shifting or toppling over. This stability is especially crucial when transporting cars
+                                over long
+                                distances or challenging terrains.</p>
 
 
 
 
 
-                           
+
                         </div>
 
                     </div>

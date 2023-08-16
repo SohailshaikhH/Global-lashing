@@ -460,7 +460,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/End Fitting - 8 Image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>
@@ -481,7 +482,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/End Fitting - 9 Image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>
@@ -506,7 +508,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/End Fitting - 10 Image.png"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -687,7 +690,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/EndFitting/End Fitting Last Image.png"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>1”(25mm)</td>

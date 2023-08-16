@@ -243,7 +243,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/TD1.jpg" class="img-fluid"></td>
+                                    <td class="text-center"><img src="new-imag/tiedown/ratchet tie down - 1 image.jpg"
+                                            class="img-fluid"></td>
 
                                     <td>25mm(1’)</td>
 
@@ -308,7 +309,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/TD3.jpg" class="img-fluid"></td>
+                                    <td class="text-center"><img src="new-imag/tiedown/rat tie - 3 image.jpg"
+                                            class="img-fluid"></td>
 
                                     <td>35mm(1.37’)</td>
 
@@ -336,7 +338,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/TD4.jpg" class="img-fluid"></td>
+                                    <td class="text-center"><img src="new-imag/tiedown/rat tie - 4 - 5 image.jpg"
+                                            class="img-fluid"></td>
 
                                     <td>50mm(2’)</td>
 
@@ -372,7 +375,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/TD5.jpg" class="img-fluid"></td>
+                                    <td class="text-center"><img src="new-imag/tiedown/rat tie - 4 - 5 image.jpg"
+                                            class="img-fluid"></td>
 
                                     <td>50mm(2’)</td>
 
@@ -410,7 +414,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/TD6.jpg" class="img-fluid"></td>
+                                    <td class="text-center"><img src="new-imag/tiedown/rat tie - 6 - 7image.jpg"
+                                            class="img-fluid"></td>
 
                                     <td>50mm(2’)</td>
 
@@ -450,7 +455,7 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/product-image-table.jpg"
+                                    <td class="text-center"><img src="new-imag/tiedown/rat tie - 6 - 7image.jpg"
                                             class="img-fluid"></td>
 
                                     <td>50mm(2’)</td>

@@ -94,17 +94,21 @@
 
 
 
-                  
-
-                         <p>Dunnage bags are structures inflated with pressurized gas to secure cargo in place during
-transport by filling the voids between the cargo and the walls or floor of the shipping container.  </p>
-  <p>Dunnage bags are made of 3 major components, an inflatable layer, an outer covering and some means
-to inflate and/or deflate the inner layer. The inflatable layer typically consists of an elastic material like
-polyethylene and the outer layer can be something made up of a sturdy material which has a bit of
-inelastic properties.  </p>
 
 
-                  
+                    <p>Dunnage bags are structures inflated with pressurized gas to secure cargo in place during
+                        transport by filling the voids between the cargo and the walls or floor of the shipping
+                        container. </p>
+                    <p>Dunnage bags are made of 3 major components, an inflatable layer, an outer covering and some
+                        means
+                        to inflate and/or deflate the inner layer. The inflatable layer typically consists of an elastic
+                        material like
+                        polyethylene and the outer layer can be something made up of a sturdy material which has a bit
+                        of
+                        inelastic properties. </p>
+
+
+
 
 
 
@@ -116,7 +120,7 @@ inelastic properties.  </p>
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/Accesories.png" class="img-fluid">
 
                 </div>
 
@@ -126,29 +130,29 @@ inelastic properties.  </p>
 
 
 
- <div class="row mt-3">
+            <div class="row mt-3">
 
                 <div class="col-md-12 my-auto">
 
-                   
-
-                  
 
 
-  <p>To use a dunnage bag, simply place it between the cargo and the container&#39;s wall or floor and
-inflate it using a pump or air compressor. The bag will fill the space and create a cushion to
-prevent the cargo from shifting and bouncing during transport. This is particularly helpful for
-fragile or delicate items that could be damaged in transit.  </p>
-  <p>Dunnage bags come in a variety of sizes and shapes to fit different shipping containers and
-cargo. They can also be reused as long as they are in good condition. Overall, a dunnage bag is
-a cost-effective solution for securing cargo  </p>
-                  
+
+
+
+                    <p>To use a dunnage bag, simply place it between the cargo and the container&#39;s wall or floor and
+                        inflate it using a pump or air compressor. The bag will fill the space and create a cushion to
+                        prevent the cargo from shifting and bouncing during transport. This is particularly helpful for
+                        fragile or delicate items that could be damaged in transit. </p>
+                    <p>Dunnage bags come in a variety of sizes and shapes to fit different shipping containers and
+                        cargo. They can also be reused as long as they are in good condition. Overall, a dunnage bag is
+                        a cost-effective solution for securing cargo </p>
+
 
 
 
                 </div>
 
-  </div>
+            </div>
 
         </div>
 
@@ -189,10 +193,10 @@ a cost-effective solution for securing cargo  </p>
             <div class="row ">
 
                 <div class="col-md-12">
-<ol class="text-white">
-<li>PP dunnage bag</li>
-<li>Paper dunnage bag</li>
-</ol>
+                    <ol class="text-white">
+                        <li>PP dunnage bag</li>
+                        <li>Paper dunnage bag</li>
+                    </ol>
 
 
                 </div>
@@ -204,23 +208,24 @@ a cost-effective solution for securing cargo  </p>
             </div>
 
 
-  <div class="row ">
+            <div class="row ">
 
                 <div class="col-md-6">
 
- <div class="m-2">
+                    <div class="m-2">
 
-                            <h4>PP Dunnage Bag</h4>
+                        <h4>PP Dunnage Bag</h4>
 
-                            <p>The inner inflatable layer is made of PET which holds the pressurized air in it
-and the outer layer is made of polypropylene(PP) which is a woven layer and then the ends are
-sealed by using a binding strip. </p>
+                        <p>The inner inflatable layer is made of PET which holds the pressurized air in it
+                            and the outer layer is made of polypropylene(PP) which is a woven layer and then the ends
+                            are
+                            sealed by using a binding strip. </p>
 
 
 
-                           
 
-                        </div>
+
+                    </div>
 
 
 
@@ -228,22 +233,24 @@ sealed by using a binding strip. </p>
                 </div>
 
 
-  <div class="col-md-6">
+                <div class="col-md-6">
 
- <div class="m-2">
+                    <div class="m-2">
 
-                            <h4>Paper Dunnage Bags</h4>
+                        <h4>Paper Dunnage Bags</h4>
 
-                            <p>The inner inflatable layer is made of PET which holds the pressurized air
-in it and the outer layer is made of multiple layers of Kraft paper and the ends are sealed by
-using an adhesive. The quality of kraft paper is a major factor that determines the quality and
-durability of the bags.</p>
+                        <p>The inner inflatable layer is made of PET which holds the pressurized air
+                            in it and the outer layer is made of multiple layers of Kraft paper and the ends are sealed
+                            by
+                            using an adhesive. The quality of kraft paper is a major factor that determines the quality
+                            and
+                            durability of the bags.</p>
 
 
 
-                           
 
-                        </div>
+
+                    </div>
 
                 </div>
 
@@ -251,7 +258,7 @@ durability of the bags.</p>
             </div>
 
 
-           
+
 
 
 
@@ -261,16 +268,16 @@ durability of the bags.</p>
 
 
 
-  
+
 
 
 
     <section class="prod-info">
 
         <div class="container">
-		
-		
-		<div class="row justify-content-between">
+
+
+            <div class="row justify-content-between">
 
                 <div class="col-md-7">
 
@@ -280,7 +287,7 @@ durability of the bags.</p>
 
 
 
-                      
+
 
                     </div>
 
@@ -288,10 +295,10 @@ durability of the bags.</p>
 
 
 
-               
+
 
             </div>
-		
+
 
             <div class="row justify-content-between">
 
@@ -299,16 +306,20 @@ durability of the bags.</p>
 
                     <div class="m-2">
 
-                       
+
 
                         <p>
 
-                           Choosing the right Dunnage bags can be challenging, as it depends on several factors. Firstly,
-consider the cargo type and weight, as this determines the amount of inflation required to
-secure the load. Secondly, choose the right material and size, ensuring it can handle the weight
-of the cargo without tearing or puncturing. Thirdly, determine the gaps in the container, ensuring
-you select a bag that fits snugly. Finally, calculate the amount of inflation required, ensuring that
-the bag can handle the weight of the cargo and the pressure caused by inflation.
+                            Choosing the right Dunnage bags can be challenging, as it depends on several factors.
+                            Firstly,
+                            consider the cargo type and weight, as this determines the amount of inflation required to
+                            secure the load. Secondly, choose the right material and size, ensuring it can handle the
+                            weight
+                            of the cargo without tearing or puncturing. Thirdly, determine the gaps in the container,
+                            ensuring
+                            you select a bag that fits snugly. Finally, calculate the amount of inflation required,
+                            ensuring that
+                            the bag can handle the weight of the cargo and the pressure caused by inflation.
 
                         </p>
 
@@ -318,7 +329,7 @@ the bag can handle the weight of the cargo and the pressure caused by inflation.
 
 
 
-               
+
 
             </div>
 
@@ -363,18 +374,18 @@ the bag can handle the weight of the cargo and the pressure caused by inflation.
                             <h4>Cost-effective solution</h4>
 
                             <p>Dunnage bags are a cheaper solution for cargo handling when it
-comes to filling the gaps in the cargo container </p>
+                                comes to filling the gaps in the cargo container </p>
 
 
 
                             <h4>Enhance safety</h4>
 
                             <p>Dunnage bags help to prevent goods from shifting during transit, reducing the
-risk of accidents.</p>
+                                risk of accidents.</p>
 
 
 
-                           
+
 
                         </div>
 
@@ -387,7 +398,7 @@ risk of accidents.</p>
                             <h4>Increase efficiency</h4>
 
                             <p>Dunnage bags speeds up the loading and unloading process and,
-minimizing downtime during cargo handling.</p>
+                                minimizing downtime during cargo handling.</p>
 
 
                             <h4>Easy to handle</h4>
@@ -395,8 +406,9 @@ minimizing downtime during cargo handling.</p>
 
 
                             <p>Dunnage bags require minimal effort to install and remove.
-Eco-friendly -  It is made from recyclable materials, reducing environmental degradation caused
-by waste.</p>
+                                Eco-friendly -  It is made from recyclable materials, reducing environmental degradation
+                                caused
+                                by waste.</p>
 
                         </div>
 

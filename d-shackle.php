@@ -96,17 +96,18 @@
 
                     <p>
 
-                       D shackle is a U-shaped piece of metal with a screw pin used to secure a rope or chain to one
-end of another rope or chain. The &quot;U&quot; shape of the shackle allows it to be easily attached to
-anchor points, making it a versatile and necessary tool in a variety of applications such as
-rigging, towing, and securing loads.
-</p>
+                        D shackle is a U-shaped piece of metal with a screw pin used to secure a rope or chain to one
+                        end of another rope or chain. The &quot;U&quot; shape of the shackle allows it to be easily
+                        attached to
+                        anchor points, making it a versatile and necessary tool in a variety of applications such as
+                        rigging, towing, and securing loads.
+                    </p>
 
 
 
                     <p>When choosing a d shackle, it is important to consider the strength and load capacity required
-for the intended use. Shackles are typically labeled with their weight ratings, which should not
-be exceeded.
+                        for the intended use. Shackles are typically labeled with their weight ratings, which should not
+                        be exceeded.
 
                     </p>
 
@@ -120,7 +121,7 @@ be exceeded.
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/d-shackle-main-image.png" class="img-fluid">
 
                 </div>
 
@@ -194,7 +195,7 @@ be exceeded.
 
 
 
-                                   
+
 
 
 
@@ -431,8 +432,8 @@ be exceeded.
                 <div class="col-md-10 text-center">
 
                     <p>
-D shackles are a type of shackle that are highly in demand due to their versatile nature
-and numerous advantages. Below are some of the significant advantages of D shackles:</p>
+                        D shackles are a type of shackle that are highly in demand due to their versatile nature
+                        and numerous advantages. Below are some of the significant advantages of D shackles:</p>
 
 
 
@@ -440,7 +441,7 @@ and numerous advantages. Below are some of the significant advantages of D shack
 
                 </div>
 
-    </div>
+            </div>
 
 
 
@@ -472,7 +473,7 @@ and numerous advantages. Below are some of the significant advantages of D shack
 
                 </div>
 
-    </div>
+            </div>
 
 
 
@@ -485,90 +486,93 @@ and numerous advantages. Below are some of the significant advantages of D shack
 
 
 
-                <div class="row justify-content-between">
+            <div class="row justify-content-between">
 
-                    <div class="col-md-6">
+                <div class="col-md-6">
 
-                        <div class="m-2">
+                    <div class="m-2">
 
-                            <h4>Heat resistance</h4>
+                        <h4>Heat resistance</h4>
 
-                            <p>D shackles are known for their ability to withstand high temperatures. This
-makes them suitable for applications where heat is a concern, such as in industrial settings or
-when working with machinery that generates heat.</p>
-
-
-
-                            <h4>Versatile</h4>
-
-                            <p> Another significant advantage of D shackles is their versatility. They can be used in
-many applications, such as rigging, lifting, and towing. They are also ideal for maritime use,
-such as anchoring and mooring.</p>
+                        <p>D shackles are known for their ability to withstand high temperatures. This
+                            makes them suitable for applications where heat is a concern, such as in industrial settings
+                            or
+                            when working with machinery that generates heat.</p>
 
 
 
-                            <h4>Strength</h4>
+                        <h4>Versatile</h4>
 
-                            <p> D shackles are incredibly strong and durable. They are made from high-quality,
-heavy-duty materials, making them able to withstand heavy loads. They are perfect for heavy-
-duty applications where high strength is required.</p>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-6">
-
-                        <div class="m-2">
-
-                            <h4>Corrosion Resistance</h4>
+                        <p> Another significant advantage of D shackles is their versatility. They can be used in
+                            many applications, such as rigging, lifting, and towing. They are also ideal for maritime
+                            use,
+                            such as anchoring and mooring.</p>
 
 
 
-                            <p> D shackles are highly resistant to corrosion, making them ideal for use
-in harsh conditions.</p>
+                        <h4>Strength</h4>
 
-
-
-
-
-                            <h4>Cost-Effective</h4>
-
-
-
-                            <p>D shackles are cost-effective and offer value for money. They are inexpensive,
-yet they are incredibly strong and durable, making them a more cost-effective option than other
-types of shackles.</p>
-
-                        </div>
+                        <p> D shackles are incredibly strong and durable. They are made from high-quality,
+                            heavy-duty materials, making them able to withstand heavy loads. They are perfect for heavy-
+                            duty applications where high strength is required.</p>
 
                     </div>
 
+                </div>
 
+                <div class="col-md-6">
+
+                    <div class="m-2">
+
+                        <h4>Corrosion Resistance</h4>
+
+
+
+                        <p> D shackles are highly resistant to corrosion, making them ideal for use
+                            in harsh conditions.</p>
+
+
+
+
+
+                        <h4>Cost-Effective</h4>
+
+
+
+                        <p>D shackles are cost-effective and offer value for money. They are inexpensive,
+                            yet they are incredibly strong and durable, making them a more cost-effective option than
+                            other
+                            types of shackles.</p>
+
+                    </div>
 
                 </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
 
     </section>
 

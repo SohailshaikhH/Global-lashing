@@ -131,7 +131,7 @@
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/Buckle main image.png" class="img-fluid">
 
                 </div>
 
@@ -421,7 +421,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/buckles/buckles - welded buckle - 40mm.jpg" class="img-fluid">
                                     </td>
 
 
@@ -633,7 +634,8 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img src="new-imag/buckles/image 1 3rd last buckle.jpg"
+                                            class="img-fluid">
                                     </td>
 
 
@@ -680,7 +682,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/buckles/PSxGLL-Product Catalog-Clean-52-2ndlast.jpg"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>1.5”(35mm)</td>
@@ -705,7 +709,9 @@
 
                                 <tr>
 
-                                    <td class="text-center"><img src="new-imag/cam-buckle-50mm.jpg" class="img-fluid">
+                                    <td class="text-center"><img
+                                            src="new-imag/buckles/PSxGLL-Product Catalog-Clean-51 - last Image.jpg"
+                                            class="img-fluid">
                                     </td>
 
                                     <td>2”(50mm)</td>

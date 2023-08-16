@@ -205,7 +205,7 @@
 
             <div class="row ">
 
-               
+
 
                 <div class="col-md-6 my-auto   order-md-2">
 
@@ -262,11 +262,11 @@
                 </div>
 
 
- <div class="col-md-6 text-center order-md-1">
+                <div class="col-md-6 text-center order-md-1">
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/product-24.png" class="img-fluid">
 
                 </div>
 
@@ -340,7 +340,7 @@
 
 
 
-                    <img src="new-imag/tie-down-prod.png" class="img-fluid">
+                    <img src="new-imag/product-25.png" class="img-fluid">
 
                 </div>
 
